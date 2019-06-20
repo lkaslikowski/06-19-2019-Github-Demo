@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the Github Pages Demo 2.0 
+
+Thank you for joining us.
 
 You can use the [editor on GitHub](https://github.com/lkaslikowski/06-19-2019-Github-Demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
