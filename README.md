@@ -1,4 +1,4 @@
-## Welcome to the Github Pages Demo 2.0 
+## Welcome to the Github Pages Demo 3.0 
 
 Thank you for joining us.
 
